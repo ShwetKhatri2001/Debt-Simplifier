@@ -1,0 +1,16 @@
+{
+    "name": "debtsimplifier",
+    "version": "1.0.0",
+    "description": "Debt-simplification is a feature of Splitwise that restructures debt within groups of people.It does not change the total amount that anyone owes,but it makes it easier to pay people back by minimizing the total number of payments.",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "ejs": "^3.1.3",
+        "express": "^4.17.1"
+    }
+}
+
